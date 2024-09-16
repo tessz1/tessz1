@@ -10,9 +10,3 @@
     <img src="https://komarev.com/ghpvc/?username=tessz1&style=flat-square&color=blue" alt="Profile View Counter"/>
   </div>
 </div>
-
-<style>
-  #badges a {
-    text-decoration: none;
-  }
-</style>
