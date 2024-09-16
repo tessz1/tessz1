@@ -13,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=tessz1&style=flat-square&color=blue" alt="Profile View Counter"/>
 </div>
 <h1 align="center">
-  hey there
+  Hey nice to see you
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hello" width="30px"/>
 </h1>
 <div align="center">
