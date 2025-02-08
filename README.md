@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About me :
 
-I am a full-stack developer based in Russia.
+I am a frontend developer based in Russia.
 
 - 👁️ At the moment, I am actively learning Golang and working on my own project.
 
