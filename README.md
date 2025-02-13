@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9vanphdjRmcWh0MDFja2huMHphc21pcTRibnpvNXo3c2Nyazh1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" width="300" />
   <div id="badges">
     <a href="https://t.me/tessiz">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge">   
